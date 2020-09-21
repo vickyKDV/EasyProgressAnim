@@ -27,7 +27,8 @@
 	}
 
 
-How To Use
+
+Cara Menggunakan (Contoh : [Lihat Contoh](https://github.com/vickyKDV/EasyProgressAnim/blob/master/app/src/main/java/lesehankoding/com/exampleprogress/MainActivity.java))
 
     public class MainActivity extends AppCompatActivity {
 
